@@ -97,8 +97,6 @@ function getNearestPharmFromLongLat(geoLocation, callback){
 function createStatusUpdateObj(screen_name, currentTweetText, tweetInfo)
 {
     var StatusObj = {};
-    var date = new Date();
-    var uniqueRef = " [Ref:" + date.getTime() + "]";
     
     if(tweetInfo.isFollower == true){
         if(tweetInfo.serviceLocResolved){
@@ -114,7 +112,7 @@ function createStatusUpdateObj(screen_name, currentTweetText, tweetInfo)
     else{
         statusObj = {status: "@" + screen_name + ". I'm a bot. For best results, follow me & tweet me in form 'Nearest Pharmacy <your postcode> and I'll DM a reply"};
     }
-    statusObj.status += uniqueRef;
+    statusObj.status;
 
     return statusObj;
 }
@@ -220,7 +218,7 @@ function respondToNearestPharm(client, tweet) {
             log("About to tweet reply using: " + statusObj.status);
             client.post('statuses/update', statusObj,  function (error, tweetReply, response){
                 if (error){ 
-                    log("Error at end of respondToNearestPharm: " + error)
+                    log("Error at end of respondToNearestPharm: " + JSON.stringify(error, null, 4));
                     //return callback(error);
                 }
             });

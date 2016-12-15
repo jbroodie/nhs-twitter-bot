@@ -1,153 +1,61 @@
-[2016-12-13 15:57:19.341] [DEBUG] debug - Started running...
-[2016-12-13 15:57:45.846] [DEBUG] debug - onTweet: Just received this tweet: @AndyDevTest1 help thanks xxxxjuufbf from andy_dev2
-[2016-12-13 15:57:46.240] [DEBUG] debug - onTweet: Just received this tweet: @andy_dev2 I'm a bot. For best results follow me &amp; tweet me in the form: 'Nearest Pharmacy &lt;your postcode&gt;' and I'll DM a reply []848] from AndyDevTest1
-[2016-12-13 15:57:52.961] [DEBUG] debug - replyWithHelp - sent: @andy_dev2 I'm a bot. For best results follow me &amp; tweet me in the form: 'Nearest Pharmacy &lt;your postcode&gt;' and I'll DM a reply []848]
-[2016-12-13 15:59:00.755] [DEBUG] debug - Started running...
-[2016-12-13 15:59:14.051] [DEBUG] debug - onTweet: Just received this tweet: @AndyDevTest1 help. Thanks so much 33 from andy_dev2
-[2016-12-13 15:59:19.248] [DEBUG] debug - replyWithHelp - sent: @andy_dev2 I'm a bot. For best results follow me &amp; tweet me in the form: 'Nearest Pharmacy &lt;your postcode&gt;' and I'll DM a reply []52]
-[2016-12-13 16:07:14.716] [DEBUG] debug - Started running...
-[2016-12-13 16:07:51.746] [DEBUG] debug - onTweet: Just received this tweet: @AndyDevTest1 help. Cheers buddy from andy_dev2
-[2016-12-13 16:07:52.045] [DEBUG] debug - replyWithHelp - sent: @andy_dev2 I'm a bot. For best results follow me &amp; tweet me in the form: 'Nearest Pharmacy &lt;your postcode&gt;' and I'll DM a reply []751]
-[2016-12-13 16:08:19.767] [DEBUG] debug - Started running...
-[2016-12-13 16:08:31.602] [DEBUG] debug - onTweet: Just received this tweet: @AndyDevTest1 help. Thanks so much. Hhh from andy_dev2
-[2016-12-13 16:08:31.950] [DEBUG] debug - replyWithHelp - sent: @andy_dev2 I'm a bot. For best results follow me &amp; tweet me in the form: 'Nearest Pharmacy &lt;your postcode&gt;' and I'll DM a reply []603]
-[2016-12-13 16:08:32.040] [DEBUG] debug - onTweet: Just received this tweet: @andy_dev2 I'm a bot. For best results follow me &amp; tweet me in the form: 'Nearest Pharmacy &lt;your postcode&gt;' and I'll DM a reply []603] from AndyDevTest1
-[2016-12-13 16:08:32.212] [DEBUG] debug - checkFriendshipResponse returned false
-[2016-12-13 16:08:32.213] [DEBUG] debug - getTweetPostcode: Match[0] is null
-[2016-12-13 16:09:07.652] [DEBUG] debug - About to tweet reply using: @AndyDevTest1, thanks for tweet! Please follow me to get a reply [Ref:1481645312213]
-[2016-12-13 16:09:07.673] [DEBUG] debug - Respond with: 
-[2016-12-13 16:09:08.044] [DEBUG] debug - onTweet: Just received this tweet: @AndyDevTest1, thanks for tweet! Please follow me to get a reply [Ref:1481645312213] from AndyDevTest1
-[2016-12-13 16:09:47.927] [DEBUG] debug - Started running...
-[2016-12-13 16:10:03.204] [DEBUG] debug - onTweet: Just received this tweet: @AndyDevTest1 help. Thanks tttt ggg from andy_dev2
-[2016-12-13 16:10:34.329] [DEBUG] debug - replyWithHelp - sent: @andy_dev2 I'm a bot. For best results follow me &amp; tweet me in the form: 'Nearest Pharmacy &lt;your postcode&gt;' and I'll DM a reply []546]
-[2016-12-13 16:10:55.944] [DEBUG] debug - Started running...
-[2016-12-13 16:11:23.060] [DEBUG] debug - onTweet: Just received this tweet: @AndyDevTest1 what can you do ? from andy_dev2
-[2016-12-13 16:11:30.903] [DEBUG] debug - function streamTweet error:ReferenceError: callback is not defined
-[2016-12-13 16:11:33.969] [DEBUG] debug - replyWithHelp - sent: @andy_dev2 I'm a bot. For best results follow me &amp; tweet me in the form: 'Nearest Pharmacy &lt;your postcode&gt;' and I'll DM a reply []887]
-[2016-12-13 16:11:33.971] [DEBUG] debug - onTweet: Just received this tweet: @andy_dev2 I'm a bot. For best results follow me &amp; tweet me in the form: 'Nearest Pharmacy &lt;your postcode&gt;' and I'll DM a reply []887] from AndyDevTest1
-[2016-12-13 16:19:38.590] [DEBUG] debug - Started running...
-[2016-12-13 16:19:57.767] [DEBUG] debug - onTweet: Just received this tweet: @AndyDevTest1 hello thanks for your help from andy_dev2
-[2016-12-13 16:20:07.402] [DEBUG] debug - function streamTweet error:ReferenceError: callback is not defined
-[2016-12-13 16:20:13.266] [DEBUG] debug - replyWithHelp - sent: @andy_dev2 I'm a bot. For best results follow me &amp; tweet me in the form: 'Nearest Pharmacy &lt;your postcode&gt;' and I'll DM a reply []234]
-[2016-12-13 16:20:13.269] [DEBUG] debug - onTweet: Just received this tweet: @andy_dev2 I'm a bot. For best results follow me &amp; tweet me in the form: 'Nearest Pharmacy &lt;your postcode&gt;' and I'll DM a reply []234] from AndyDevTest1
-[2016-12-13 16:20:28.942] [DEBUG] debug - function streamTweet error:ReferenceError: callback is not defined
-[2016-12-13 16:20:29.111] [DEBUG] debug - checkFriendshipResponse returned false
-[2016-12-13 16:20:29.120] [DEBUG] debug - getTweetPostcode: Match[0] is null
-[2016-12-13 16:20:32.770] [DEBUG] debug - About to tweet reply using: @AndyDevTest1, thanks for tweet! Please follow me to get a reply [Ref:1481646029121]
-[2016-12-13 16:20:32.775] [DEBUG] debug - Respond with: 
-[2016-12-13 16:20:33.119] [DEBUG] debug - onTweet: Just received this tweet: @AndyDevTest1, thanks for tweet! Please follow me to get a reply [Ref:1481646029121] from AndyDevTest1
-[2016-12-13 16:21:46.171] [DEBUG] debug - Started running...
-[2016-12-13 16:21:48.497] [DEBUG] debug - onTweet: Just received this tweet: @AndyDevTest1 nearest pharmacy to s41 0sx iii? Thanks. Ffg g gg g from andy_dev2
-[2016-12-13 16:21:57.526] [DEBUG] debug - checkIfFollower connection field value = followed_by. Returning TRUE
-[2016-12-13 16:21:57.526] [DEBUG] debug - checkFriendshipResponse returned true
-[2016-12-13 16:21:57.527] [DEBUG] debug - getTweetPostcode: Match[0] is s41 0sx
-[2016-12-13 16:21:59.644] [DEBUG] debug - Data from nearest to return is Your nearest Pharmacy is Tesco Pharmacy. Lockerford Lane, Chesterfield, null, Derbyshire, S41 7JB. Open until 10:30 pm today
-[2016-12-13 16:22:05.050] [DEBUG] debug - About to tweet reply using: D andy_dev2 Your nearest Pharmacy is Tesco Pharmacy. Lockerford Lane, Chesterfield, null, Derbyshire, S41 7JB. Open until 10:30 pm today [Ref:1481646119645]
-[2016-12-13 16:22:05.065] [DEBUG] debug - Respond with: Your nearest Pharmacy is Tesco Pharmacy. Lockerford Lane, Chesterfield, null, Derbyshire, S41 7JB. Open until 10:30 pm today
-[2016-12-13 16:22:24.645] [DEBUG] debug - onTweet: Just received this tweet: @AndyDevTest1 help F did did did du from andy_dev2
-[2016-12-13 16:22:44.029] [DEBUG] debug - replyWithHelp - sent: @andy_dev2 I'm a bot. For best results follow me &amp; tweet me in the form: 'Nearest Pharmacy &lt;your postcode&gt;' and I'll DM a reply []968]
-[2016-12-13 16:22:44.034] [DEBUG] debug - onTweet: Just received this tweet: @andy_dev2 I'm a bot. For best results follow me &amp; tweet me in the form: 'Nearest Pharmacy &lt;your postcode&gt;' and I'll DM a reply []968] from AndyDevTest1
-[2016-12-13 16:27:26.517] [DEBUG] debug - Started running...
-[2016-12-13 16:27:39.988] [DEBUG] debug - onTweet: Just received this tweet: @AndyDevTest1 hello dhf fhf fhf dh from andy_dev2
-[2016-12-13 16:27:40.184] [DEBUG] debug - checkIfFollower connection field value = followed_by. Returning TRUE
-[2016-12-13 16:27:40.184] [DEBUG] debug - checkFriendshipResponse returned true
-[2016-12-13 16:27:40.184] [DEBUG] debug - getTweetPostcode: Match[0] is null
-[2016-12-13 16:27:40.185] [DEBUG] debug - About to tweet reply using: D andy_dev2 Thanks for the tweet about nearest Pharmacy. Sorry, could not find a postcode that matches the one you sent. Please check and try again [Ref:1481646460185]
-[2016-12-13 16:27:40.188] [DEBUG] debug - Respond with: 
-[2016-12-13 16:28:00.380] [DEBUG] debug - onTweet: Just received this tweet: @AndyDevTest1 help. A Dy. How do I use you? from andy_dev2
-[2016-12-13 16:28:00.567] [DEBUG] debug - checkFriendshipResponse returned false
-[2016-12-13 16:28:00.568] [DEBUG] debug - getTweetPostcode: Match[0] is null
-[2016-12-13 16:28:00.568] [DEBUG] debug - About to tweet reply using: @andy_dev2. I'm a bot. For best results, follow me & tweet me in form 'Nearest Pharmacy <your postcode> and I'll DM a reply [Ref:1481646480568]
-[2016-12-13 16:28:00.571] [DEBUG] debug - Respond with: 
-[2016-12-13 16:29:41.394] [DEBUG] debug - Started running...
-[2016-12-13 16:30:05.389] [DEBUG] debug - onTweet: Just received this tweet: @AndyDevTest1 nearest pharmacy to s41 0sx iii? Thanks Chris if fjf from andy_dev2
-[2016-12-13 16:30:05.579] [DEBUG] debug - checkFriendshipResponse returned false
-[2016-12-13 16:30:05.579] [DEBUG] debug - getTweetPostcode: Match[0] is s41 0sx
-[2016-12-13 16:30:05.900] [DEBUG] debug - Data from nearest to return is Your nearest Pharmacy is Tesco Pharmacy. Lockerford Lane, Chesterfield, null, Derbyshire, S41 7JB. Open until 10:30 pm today
-[2016-12-13 16:30:05.900] [DEBUG] debug - About to tweet reply using: @andy_dev2. I'm a bot. For best results, follow me & tweet me in form 'Nearest Pharmacy <your postcode> and I'll DM a reply [Ref:1481646605900]
-[2016-12-13 16:30:05.905] [DEBUG] debug - Respond with: Your nearest Pharmacy is Tesco Pharmacy. Lockerford Lane, Chesterfield, null, Derbyshire, S41 7JB. Open until 10:30 pm today
-[2016-12-13 16:30:06.090] [DEBUG] debug - Error at end of respondToNearestPharm: [object Object]
-[2016-12-13 16:33:26.850] [DEBUG] debug - Started running...
-[2016-12-13 16:33:50.000] [DEBUG] debug - onTweet: Just received this tweet: @AndyDevTest1 nearest pharmacy to s41 0sx iii? Djfjf fjf fjf from andy_dev2
-[2016-12-13 16:33:50.208] [DEBUG] debug - checkFriendshipResponse returned false
-[2016-12-13 16:34:56.305] [DEBUG] debug - Started running...
-[2016-12-13 16:35:06.525] [DEBUG] debug - onTweet: Just received this tweet: @AndyDevTest1 nearest pharmacy to s41 0sx iii? Did fjf j from andy_dev2
-[2016-12-13 16:35:06.714] [DEBUG] debug - checkFriendshipResponse returned false
-[2016-12-13 16:35:44.014] [DEBUG] debug - Started running...
-[2016-12-13 16:35:55.473] [DEBUG] debug - onTweet: Just received this tweet: @AndyDevTest1 nearest pharmacy to s41 0sx iii? Fjf fjf fjf fjf fjf from andy_dev2
-[2016-12-13 16:35:55.680] [DEBUG] debug - checkFriendshipResponse returned false
-[2016-12-13 16:36:49.760] [DEBUG] debug - Started running...
-[2016-12-13 16:36:58.992] [DEBUG] debug - onTweet: Just received this tweet: @AndyDevTest1 nearest pharmacy to s41 0sx iii? Fjf fjf fjf ride rite the from andy_dev2
-[2016-12-13 16:36:59.199] [DEBUG] debug - checkFriendshipResponse returned false
-[2016-12-13 16:37:39.887] [DEBUG] debug - Started running...
-[2016-12-13 16:37:50.690] [DEBUG] debug - onTweet: Just received this tweet: @AndyDevTest1 nearest pharmacy to s41 0sx iii? Fjf fjf eke the rj from andy_dev2
-[2016-12-13 16:37:50.886] [DEBUG] debug - checkFriendshipResponse returned false
-[2016-12-13 16:40:24.026] [DEBUG] debug - Started running...
-[2016-12-13 16:40:35.169] [DEBUG] debug - onTweet: Just received this tweet: @AndyDevTest1 nearest pharmacy to s41 0sx iii? Fjf fjf eke rj from andy_dev2
-[2016-12-13 16:40:35.443] [DEBUG] debug - checkFriendshipResponse returned false
-[2016-12-13 16:40:58.077] [DEBUG] debug - Started running...
-[2016-12-13 16:41:07.122] [DEBUG] debug - onTweet: Just received this tweet: @AndyDevTest1 nearest pharmacy to s41 0sx iii? Fjf fjf fjf rjeieirir rirbr from andy_dev2
-[2016-12-13 16:41:07.314] [DEBUG] debug - checkIfFollower connection field value = followed_by. Returning TRUE
-[2016-12-13 16:41:07.315] [DEBUG] debug - checkFriendshipResponse returned true
-[2016-12-13 16:41:07.315] [DEBUG] debug - getTweetPostcode: Match[0] is s41 0sx
-[2016-12-13 16:41:09.566] [DEBUG] debug - Data from nearest to return is Your nearest Pharmacy is Tesco Pharmacy. Lockerford Lane, Chesterfield, null, Derbyshire, S41 7JB. Open until 10:30 pm today
-[2016-12-13 16:41:09.566] [DEBUG] debug - About to tweet reply using: D andy_dev2 Your nearest Pharmacy is Tesco Pharmacy. Lockerford Lane, Chesterfield, null, Derbyshire, S41 7JB. Open until 10:30 pm today [Ref:1481647269566]
-[2016-12-13 16:41:40.391] [DEBUG] debug - onTweet: Just received this tweet: @AndyDevTest1 is due for the three r from andy_dev2
-[2016-12-13 16:41:40.565] [DEBUG] debug - checkFriendshipResponse returned false
-[2016-12-13 16:43:04.414] [DEBUG] debug - Started running...
-[2016-12-13 16:43:21.494] [DEBUG] debug - onTweet: Just received this tweet: @AndyDevTest1 nearest pharmacy to s41 0sx iii? Fjf fjf fjf fjf fjf fjf from andy_dev2
-[2016-12-13 16:43:28.312] [DEBUG] debug - checkIfFollower connection field value = followed_by. Returning TRUE
-[2016-12-13 16:43:28.314] [DEBUG] debug - checkFriendshipResponse returned true
-[2016-12-13 16:43:28.315] [DEBUG] debug - getTweetPostcode: Match[0] is s41 0sx
-[2016-12-13 16:43:28.853] [DEBUG] debug - Data from nearest to return is Your nearest Pharmacy is Tesco Pharmacy. Lockerford Lane, Chesterfield, null, Derbyshire, S41 7JB. Open until 10:30 pm today
-[2016-12-13 16:43:28.854] [DEBUG] debug - About to tweet reply using: D andy_dev2 Your nearest Pharmacy is Tesco Pharmacy. Lockerford Lane, Chesterfield, null, Derbyshire, S41 7JB. Open until 10:30 pm today [Ref:1481647408854]
-[2016-12-13 16:44:24.461] [DEBUG] debug - onTweet: Just received this tweet: @AndyDevTest1 nearest pharmacy to s42 6rp thabkd from andy_dev2
-[2016-12-13 16:44:35.576] [DEBUG] debug - checkIfFollower connection field value = followed_by. Returning TRUE
-[2016-12-13 16:44:35.579] [DEBUG] debug - checkFriendshipResponse returned true
-[2016-12-13 16:45:16.361] [DEBUG] debug - getTweetPostcode: Match[0] is s42 6rp
-[2016-12-13 16:45:35.257] [DEBUG] debug - Data from nearest to return is Your nearest Pharmacy is Peak Pharmacy. Unit 5,Edinburgh Court, Edinburgh Road, Wingerworth, Chesterfield, Derbyshire, S42 6SH. Open until 6:30 pm today
-[2016-12-13 16:45:51.526] [DEBUG] debug - About to tweet reply using: D andy_dev2 Your nearest Pharmacy is Peak Pharmacy. Unit 5,Edinburgh Court, Edinburgh Road, Wingerworth, Chesterfield, Derbyshire, S42 6SH. Open until 6:30 pm today [Ref:1481647544841]
-[2016-12-13 16:46:32.480] [DEBUG] debug - onTweet: Just received this tweet: @AndyDevTest1 HDD did did did did either of e from andy_dev2
-[2016-12-13 16:46:44.918] [DEBUG] debug - checkFriendshipResponse returned false
-[2016-12-13 16:49:22.572] [DEBUG] debug - Started running...
-[2016-12-13 16:49:36.314] [DEBUG] debug - onTweet: Just received this tweet: @AndyDevTest1 her that the three that from andy_dev2
-[2016-12-13 16:49:40.852] [DEBUG] debug - checkFriendshipResponse returned false
-[2016-12-13 16:49:49.818] [DEBUG] debug - About to tweet reply using: @andy_dev2. I'm a bot. For best results, follow me & tweet me in form 'Nearest Pharmacy <your postcode> and I'll DM a reply [Ref:1481647789025]
-[2016-12-13 16:49:55.725] [DEBUG] debug - Error at end of respondToNearestPharm: [object Object]
-[2016-12-13 16:53:30.214] [DEBUG] debug - Started running...
-[2016-12-13 16:53:38.460] [DEBUG] debug - onTweet: Just received this tweet: @AndyDevTest1 the time to J to J J from andy_dev2
-[2016-12-13 16:53:41.758] [DEBUG] debug - checkFriendshipResponse returned false
-[2016-12-13 16:53:51.662] [DEBUG] debug - About to tweet reply using: @andy_dev2. I'm a bot. For best results, follow me & tweet me in form 'Nearest Pharmacy <your postcode> and I'll DM a reply [Ref:1481648031659]
-[2016-12-13 16:53:57.664] [DEBUG] debug - Error at end of respondToNearestPharm: [object Object]
-[2016-12-13 16:55:23.019] [DEBUG] debug - Started running...
-[2016-12-13 16:55:31.148] [DEBUG] debug - onTweet: Just received this tweet: @AndyDevTest1 jr to work the rj from andy_dev2
-[2016-12-13 16:55:34.165] [DEBUG] debug - checkFriendshipResponse returned false
-[2016-12-13 16:55:37.108] [DEBUG] debug - About to tweet reply using: @andy_dev2. I'm a bot. For best results, follow me & tweet me in form 'Nearest Pharmacy <your postcode> and I'll DM a reply [Ref:1481648137107]
-[2016-12-13 16:55:42.698] [DEBUG] debug - Error at end of respondToNearestPharm: [object Object]
-[2016-12-13 16:56:53.015] [DEBUG] debug - onTweet: Just received this tweet: @AndyDevTest1 nearest pharmacy to s41 0sx iii? Fjf eke the r from andy_dev2
-[2016-12-13 16:56:58.764] [DEBUG] debug - checkIfFollower connection field value = followed_by. Returning TRUE
-[2016-12-13 16:56:58.766] [DEBUG] debug - checkFriendshipResponse returned true
-[2016-12-13 16:57:02.879] [DEBUG] debug - getTweetPostcode: Match[0] is s41 0sx
-[2016-12-13 16:57:09.154] [DEBUG] debug - Data from nearest to return is Your nearest Pharmacy is Tesco Pharmacy. Lockerford Lane, Chesterfield, null, Derbyshire, S41 7JB. Open until 10:30 pm today
-[2016-12-13 16:57:09.158] [DEBUG] debug - About to tweet reply using: D andy_dev2 Your nearest Pharmacy is Tesco Pharmacy. Lockerford Lane, Chesterfield, null, Derbyshire, S41 7JB. Open until 10:30 pm today [Ref:1481648229157]
-[2016-12-13 16:59:02.376] [DEBUG] debug - onTweet: Just received this tweet: @AndyDevTest1 nearest pharmacy to pies pies from andy_dev2
-[2016-12-13 16:59:02.582] [DEBUG] debug - checkIfFollower connection field value = followed_by. Returning TRUE
-[2016-12-13 16:59:02.582] [DEBUG] debug - checkFriendshipResponse returned true
-[2016-12-13 16:59:02.583] [DEBUG] debug - getTweetPostcode: Match[0] is null
-[2016-12-13 16:59:02.583] [DEBUG] debug - About to tweet reply using: D andy_dev2 Thanks for the tweet about nearest Pharmacy. Sorry, could not find a postcode that matches the one you sent. Please check and try again [Ref:1481648342583]
-[2016-12-13 17:09:32.020] [DEBUG] debug - onTweet: Just received this tweet: @NHSUKPharmFind nearest pharmacy to PE21 9AN? from andy_dev2
-[2016-12-13 17:09:32.211] [DEBUG] debug - checkIfFollower connection field value = followed_by. Returning TRUE
-[2016-12-13 17:09:32.212] [DEBUG] debug - checkFriendshipResponse returned true
-[2016-12-13 17:09:32.212] [DEBUG] debug - getTweetPostcode: Match[0] is PE21 9AN
-[2016-12-13 17:09:32.548] [DEBUG] debug - Data from nearest to return is Your nearest Pharmacy is LloydsPharmacy. 13 Forbes Road, Boston, Boston, PE21 0PD. Open until 6:00 pm today
-[2016-12-13 17:09:32.548] [DEBUG] debug - About to tweet reply using: D andy_dev2 Your nearest Pharmacy is LloydsPharmacy. 13 Forbes Road, Boston, Boston, PE21 0PD. Open until 6:00 pm today [Ref:1481648972548]
-[2016-12-13 17:11:07.059] [DEBUG] debug - onTweet: Just received this tweet: @NHSUKPharmFind hi from andy_dev2
-[2016-12-13 17:11:07.232] [DEBUG] debug - checkIfFollower connection field value = followed_by. Returning TRUE
-[2016-12-13 17:11:07.232] [DEBUG] debug - checkFriendshipResponse returned true
-[2016-12-13 17:11:07.233] [DEBUG] debug - getTweetPostcode: Match[0] is null
-[2016-12-13 17:11:07.233] [DEBUG] debug - About to tweet reply using: D andy_dev2 Thanks for the tweet about nearest Pharmacy. Sorry, could not find a postcode that matches the one you sent. Please check and try again [Ref:1481649067233]
-[2016-12-13 17:11:23.356] [DEBUG] debug - onTweet: Just received this tweet: @NHSUKPharmFind hiya? from andy_dev2
-[2016-12-13 17:11:23.521] [DEBUG] debug - checkIfFollower connection field value = followed_by. Returning TRUE
-[2016-12-13 17:11:23.522] [DEBUG] debug - checkFriendshipResponse returned true
-[2016-12-13 17:11:23.522] [DEBUG] debug - getTweetPostcode: Match[0] is null
-[2016-12-13 17:11:23.522] [DEBUG] debug - About to tweet reply using: D andy_dev2 Thanks for the tweet about nearest Pharmacy. Sorry, could not find a postcode that matches the one you sent. Please check and try again [Ref:1481649083522]
+[2016-12-14 18:41:33.444] [DEBUG] debug - Error at end of respondToNearestPharm: [object Object]
+[2016-12-14 18:42:08.961] [DEBUG] debug - Started running...
+[2016-12-14 18:42:27.600] [DEBUG] debug - onTweet: Just received this tweet: @NHSUKPharmFind nearest pharmacy to ls8 1qr from JohnDevTest
+[2016-12-14 18:42:28.019] [DEBUG] debug - checkFriendshipResponse returned false
+[2016-12-14 18:42:28.020] [DEBUG] debug - About to tweet reply using: @JohnDevTest. I'm a bot. For best results, follow me & tweet me in form 'Nearest Pharmacy <your postcode> and I'll DM a reply [Ref:1481740948019]
+[2016-12-14 18:42:28.239] [DEBUG] debug - Error at end of respondToNearestPharm: [object Object]
+[2016-12-14 21:01:14.976] [DEBUG] debug - Started running...
+[2016-12-14 21:03:10.337] [DEBUG] debug - onTweet: Just received this tweet: @NHSUKPharmFind nearest Pharmacy to LS11 5BZ from JohnDevTest
+[2016-12-14 21:03:11.222] [DEBUG] debug - checkFriendshipResponse returned false
+[2016-12-14 21:03:11.225] [DEBUG] debug - About to tweet reply using: @JohnDevTest. I'm a bot. For best results, follow me & tweet me in form 'Nearest Pharmacy <your postcode> and I'll DM a reply [Ref:1481749391222]
+[2016-12-14 21:03:11.705] [DEBUG] debug - Error at end of respondToNearestPharm: [
+    {
+        "code": 186,
+        "message": "Status is over 140 characters."
+    }
+]
+[2016-12-14 21:41:25.378] [DEBUG] debug - Started running...
+[2016-12-14 21:42:09.177] [DEBUG] debug - onTweet: Just received this tweet: @NHSUKPharmFind nearest Pharmacy to LS1 from JohnDevTest
+[2016-12-14 21:43:00.971] [DEBUG] debug - Started running...
+[2016-12-14 21:43:21.391] [DEBUG] debug - onTweet: Just received this tweet: @NHSUKPharmFind nearest Pharmacy to SE1 from JohnDevTest
+[2016-12-14 21:43:23.526] [DEBUG] debug - checkFriendshipResponse returned false
+[2016-12-14 21:43:23.526] [DEBUG] debug - About to tweet reply using: @JohnDevTest. I'm a bot. For best results, follow me & tweet me in form 'Nearest Pharmacy <your postcode> and I'll DM a reply
+[2016-12-14 21:43:24.750] [DEBUG] debug - onTweet: Just received this tweet: @JohnDevTest. I'm a bot. For best results, follow me &amp; tweet me in form 'Nearest Pharmacy &lt;your postcode&gt; and I'll DM a reply from NHSUKPharmFind
+[2016-12-14 21:43:25.740] [DEBUG] debug - checkFriendshipResponse returned false
+[2016-12-14 21:43:25.743] [DEBUG] debug - About to tweet reply using: @NHSUKPharmFind. I'm a bot. For best results, follow me & tweet me in form 'Nearest Pharmacy <your postcode> and I'll DM a reply
+[2016-12-14 21:43:27.004] [DEBUG] debug - onTweet: Just received this tweet: @NHSUKPharmFind. I'm a bot. For best results, follow me &amp; tweet me in form 'Nearest Pharmacy &lt;your postcode&gt; and I'll DM a reply from NHSUKPharmFind
+[2016-12-14 21:43:29.168] [DEBUG] debug - checkFriendshipResponse returned false
+[2016-12-14 21:43:29.168] [DEBUG] debug - About to tweet reply using: @NHSUKPharmFind. I'm a bot. For best results, follow me & tweet me in form 'Nearest Pharmacy <your postcode> and I'll DM a reply
+[2016-12-14 21:43:29.719] [DEBUG] debug - Error at end of respondToNearestPharm: [
+    {
+        "code": 187,
+        "message": "Status is a duplicate."
+    }
+]
+[2016-12-15 09:15:07.579] [DEBUG] debug - Started running...
+[2016-12-15 09:15:41.230] [DEBUG] debug - onTweet: Just received this tweet: @NHSUKPharmFind nearest Pharmacy to LS2 from JohnDevTest
+[2016-12-15 09:15:41.470] [DEBUG] debug - checkFriendshipResponse returned false
+[2016-12-15 09:15:41.471] [DEBUG] debug - About to tweet reply using: @JohnDevTest. I'm a bot. For best results, follow me & tweet me in form 'Nearest Pharmacy <your postcode> and I'll DM a reply
+[2016-12-15 09:15:41.687] [DEBUG] debug - Error at end of respondToNearestPharm: [
+    {
+        "code": 187,
+        "message": "Status is a duplicate."
+    }
+]
+[2016-12-15 09:21:38.831] [DEBUG] debug - Started running...
+[2016-12-15 09:22:03.206] [DEBUG] debug - onTweet: Just received this tweet: @NHSUKPharmFind nearest Pharmacy to LS8 from JohnDevTest
+[2016-12-15 09:22:03.440] [DEBUG] debug - checkIfFollower connection field value = followed_by. Returning TRUE
+[2016-12-15 09:22:03.440] [DEBUG] debug - checkFriendshipResponse returned true
+[2016-12-15 09:22:03.441] [DEBUG] debug - getTweetPostcode: Match[0] is null
+[2016-12-15 09:22:03.441] [DEBUG] debug - About to tweet reply using: D JohnDevTest Thanks for the tweet about nearest Pharmacy. Sorry, could not find a postcode that matches the one you sent. Please check and try again
+[2016-12-15 09:24:24.900] [DEBUG] debug - onTweet: Just received this tweet: @NHSUKPharmFind nearest Pharmacy to SE2 from JohnDevTest
+[2016-12-15 09:24:25.091] [DEBUG] debug - checkIfFollower connection field value = followed_by. Returning TRUE
+[2016-12-15 09:24:25.091] [DEBUG] debug - checkFriendshipResponse returned true
+[2016-12-15 09:24:25.092] [DEBUG] debug - getTweetPostcode: Match[0] is null
+[2016-12-15 09:24:25.094] [DEBUG] debug - About to tweet reply using: D JohnDevTest Thanks for the tweet about nearest Pharmacy. Sorry, could not find a postcode that matches the one you sent. Please check and try again
+[2016-12-15 09:25:35.265] [DEBUG] debug - onTweet: Just received this tweet: @NHSUKPharmFind nearest Pharmacy to SE1 0UE from JohnDevTest
+[2016-12-15 09:25:35.475] [DEBUG] debug - checkIfFollower connection field value = followed_by. Returning TRUE
+[2016-12-15 09:25:35.476] [DEBUG] debug - checkFriendshipResponse returned true
+[2016-12-15 09:25:35.477] [DEBUG] debug - getTweetPostcode: Match[0] is SE1 0UE
+[2016-12-15 09:25:36.582] [DEBUG] debug - Data from nearest to return is Your nearest Pharmacy is Kalmak (Chemists) Ltd. The Pharmacy (Kalmak Chemists Ltd), 9 Upper Ground, null, London, SE1 9LP. Open until 6:00 pm today
+[2016-12-15 09:25:36.582] [DEBUG] debug - About to tweet reply using: D JohnDevTest Your nearest Pharmacy is Kalmak (Chemists) Ltd. The Pharmacy (Kalmak Chemists Ltd), 9 Upper Ground, null, London, SE1 9LP. Open until 6:00 pm today

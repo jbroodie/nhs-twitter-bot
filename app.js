@@ -1,11 +1,12 @@
 var Twitter = require('twitter');
-var env = process.env.consumer_key ? process.env : require('dotenv').config();
 var async = require('async');
 var request = require('request');
 var postcodesIO = require('postcodesio-client');
 var log4js = require('log4js');
 var express = require('express');
 var app = express();
+var env = process.env.consumer_key ? process.env : require('dotenv').config();
+if (!env.consumer_key) throw 'Environment variables could not be read, ensure they have been set on the system or through a .env file.'
 
 app.set('port', (process.env.PORT || 5000));
 

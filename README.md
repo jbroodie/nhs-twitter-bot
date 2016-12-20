@@ -1,2 +1,2 @@
 # nhs-twitter-bot
-A bot that connects people with NHS services
+A bot that connects people with NHS services via Twitter
